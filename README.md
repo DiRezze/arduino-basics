@@ -1,23 +1,24 @@
-# Básico de Arduino e C++ para TCC de Mecatrônica
+# Basic Arduino and C++ for Mechatronics TCC
 
-Este repositório contém exemplos básicos de aplicações da derivação de C++ para Arduino, desenvolvidos para o Trabalho de Conclusão de Curso (TCC) de Técnico em Mecatrônica na Etec Monsenhor Antônio Magliano. Com o objetivo de estudar o uso elementar da programação em C++ para controle de dispositivos eletrônicos e automação.
+This repository contains basic examples of applications of C++ derivation for Arduino, developed for the Final Course Work (TCC) of Mechatronics Technician at Etec Monsenhor Antônio Magliano. With the objective of studying the elementary use of C++ programming for control of electronic devices and automation.
 
-## 📝 Estrutura do Repositório
+## 📝 Repository structure
 
 ```
 arduino-basics/
-│── main/                      # Código fonte do projeto
-│   ├── examples/              # Exemplos do uso
-│   ├── interfaces/            # Interfaces para interconexão de hardware
-│── docs/                      # Documentação detalhada
-│── assets/                    # Imagens e diagramas
-│── LICENSE                    # Licença do projeto
-│── README.md                  # Informações gerais do repositório
+│── main/                      # Project source code
+│   ├── examples/              # Usage examples
+│   ├── interfaces/            # Interfaces for hardware interconnection
+│── docs/                      # Detailed documentation
+│── assets/                    # Images and diagrams
+│── LICENSE                    # Project license
+│── README.md                  # General repository information (English)
+│── LEIAME.md                  # General repository information (Portuguese)
 ```
 
 ## 📚 Documentação
-Mais informações sobre a linguagem C++ no Arduino podem ser encontradas nos arquivos da pasta `docs/`.
+More information about the C++ language on Arduino can be found in the files in the `docs/` folder.
 
-## 📃 Licença
+## 📃 License
 
-Este repositório está licenciado sob a [MIT License](LICENSE).
+This repository is licensed under the [MIT License](LICENSE).
