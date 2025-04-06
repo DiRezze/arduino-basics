@@ -1,6 +1,6 @@
-# Basic Arduino and C++ for Mechatronics TCC
+# Basic Arduino and C++ for Mechatronics Final Paper
 
-This repository contains basic examples of applications of C++ derivation for Arduino, developed for the Final Course Work (TCC) of Mechatronics Technician at Etec Monsenhor Antônio Magliano. With the objective of studying the elementary use of C++ programming for control of electronic devices and automation.
+This repository contains basic examples of applications of C++ derivation for Arduino, developed for the Final Course Work of Mechatronics Technician at Etec Monsenhor Antônio Magliano. With the objective of studying the elementary use of C++ programming for control of electronic devices and automation.
 
 ## 📝 Repository structure
 
